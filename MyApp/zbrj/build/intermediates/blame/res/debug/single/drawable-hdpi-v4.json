@@ -1,0 +1,1902 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_drag_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_drag_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_record_text_layout_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_record_text_layout_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_nomal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\contact_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_im_popmenu_divider.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_im_popmenu_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_face.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_face.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_message_circle_space.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\im_message_circle_space.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_msg1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\location_msg1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search_blue.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_search_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_huaijiu.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_huaijiu.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_opt_bar_back_btn_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_opt_bar_back_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_comment_up_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_comment_up_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip_top.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\default_ptr_flip_top.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_audiotrack_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_un_select_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\check_un_select_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_default.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\play_default.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_search_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\main_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_stop_2_l.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_stop_2_l.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_zan.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_zan.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_6.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_switch_middle.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_switch_middle.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_cancel.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\search_bar_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_readmsg_detail.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_readmsg_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_message_circle_post.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\im_message_circle_post.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\11.0.0\\res\\drawable-hdpi-v4\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\drawable-hdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_28.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navi_close_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\navi_close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_group_owner.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_group_owner.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_wb_back_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_wb_back_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_switch_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_switch_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_comment_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_comment_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_send_audio.jpg",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\cancel_send_audio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_11.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_11.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tserch.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\tserch.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_msg_state_failed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_msg_state_failed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_bk.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\circle_bk.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_12.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_text_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_text_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_comment_up_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_comment_up_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_dialog_sina.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\share_dialog_sina.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baidu.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\baidu.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_normal_icon_press.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_normal_icon_press.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_btn_bg_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\search_btn_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_over.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\pause_over.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scroll_pagenobg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\scroll_pagenobg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sina_tencent_constacts_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\sina_tencent_constacts_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_over.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\play_over.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_down_white.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_down_white.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_07.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_07.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_33.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_901.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\head_901.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_marka.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_mygroup.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\head_mygroup.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_32.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_32.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_media_pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_xiaodanmu.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_xiaodanmu.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vol_type_speaker_group_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_speaker_group_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_stop_1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_stop_1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_comment_up_bg_nomal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_comment_up_bg_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_im_file2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_im_file2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_switch_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_switch_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_crop_width.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\camera_crop_width.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_shouqi.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_shouqi.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_19.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_19.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_details_edit.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_menu_details_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_to_refresh_cycle.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\pull_to_refresh_cycle.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more_top.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\more_top.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vol_type_tv_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_tv_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_900.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\head_900.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_submit_ok_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_submit_ok_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_home_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_back_home_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_bar_red.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_search_bar_red.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_06.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_06.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_login.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_login.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\11.0.0\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tencent_black.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\tencent_black.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_location.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_location.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\warning.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupset_l.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\groupset_l.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_up_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_up_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_collapse.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_check_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_image.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\video_image.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_juli_black.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_juli_black.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_black.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_black.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\headpic_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\headpic_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loc.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_loc.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set_head_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\set_head_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newfeature_line.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\newfeature_line.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\mark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_opt_bar_submit_btn_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_opt_bar_submit_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arg_picked.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\arg_picked.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_11.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_11.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_up_p.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_up_p.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_view_page_pointer_s.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_view_page_pointer_s.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_msg2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\location_msg2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_im_menu_more_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_im_menu_more_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_msg_item_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_msg_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\11.0.0\\res\\drawable-hdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupren.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\groupren.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_image.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_image.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_take_photo.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_take_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_wb_back_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_wb_back_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_04.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_save_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_save_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_danmu_gag_yes.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_danmu_gag_yes.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backmask.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\backmask.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_seekbar_thumb_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\MyApp\\videoplayer\\unspecified\\res\\drawable-hdpi-v4\\ic_seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messge_centerh.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\messge_centerh.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_replay_pause.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_replay_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_dot.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\new_dot.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_21.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_21.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupchat_l.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\groupchat_l.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_5.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_5.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gv_slip_2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\gv_slip_2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_14.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_14.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_hot.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\downloading.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\downloading.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_18.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_circle_space_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_circle_space_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pic_rotate_nor.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_pic_rotate_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_scan_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_scan_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\job_title_flag_tip.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\job_title_flag_tip.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_pic.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_more_small_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_more_small_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_org.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_org.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_thumb.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\seekbar_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\11.0.0\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_fujin.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_fujin.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defaultpic.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\defaultpic.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_dialog_qq.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\share_dialog_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_16.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_16.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pic_rotate_sel.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_pic_rotate_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_message_circle_share.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\im_message_circle_share.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_normal_icon_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_normal_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_quxiao.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_quxiao.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupset_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\groupset_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_share_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_share_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_select_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\check_select_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_source.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_source.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mr_button_grey.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_mr_button_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recorder_pic.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_recorder_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_numbg_0.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_numbg_0.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_media_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_cancel.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\pic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_contact_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_add_contact_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_12.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_12.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_red.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\circle_red.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reader_item_divider.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\reader_item_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radio_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\radio_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_bar.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_search_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_submit_cancel_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_submit_cancel_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_nor.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\checkbox_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_replay_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_replay_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_7.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_add.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\friendcircle_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\friendcircle_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\purpose_select_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\purpose_select_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grouprenbg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\grouprenbg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_switch_to_accmenu_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_switch_to_accmenu_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_crop_height.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\camera_crop_height.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_26.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_26.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sina_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\sina_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_sel.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\checkbox_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_default.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\pause_default.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more_mydoc.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_more_mydoc.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_camera_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip_bottom.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\default_ptr_flip_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_stop_1_l.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_stop_1_l.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_attention.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_add_attention.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contatc_detail_vline.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\contatc_detail_vline.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loc1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_loc1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_4.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_4.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_fg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\mic_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_line.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\category_line.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_autocrop.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\indicator_autocrop.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_10.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tbg1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\tbg1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_media_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_clicked.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\contact_clicked.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_refresh_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_refresh_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slip_2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\slip_2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_myservice.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\head_myservice.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_sumiao.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_sumiao.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_content.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\add_content.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\11.0.0\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_play_l.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_play_l.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tag_more.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_tag_more.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\spinner.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_22.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_22.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_select_image.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_select_image.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_view_page_pointer_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_view_page_pointer_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more_top_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\more_top_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mr_button_disconnected_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_mr_button_disconnected_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_image_data_select.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_image_data_select.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_05.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_05.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navi_back_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\navi_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_video.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_search_video.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_31.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_31.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_video.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popupmenu_btn.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\popupmenu_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_text_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_text_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\purpose_un_select_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\purpose_un_select_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_34.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_34.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_close_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_dialog_close_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_opt_bar_album_btn_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_opt_bar_album_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_group_small.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_group_small.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recommand.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_recommand.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_stop_3.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_stop_3.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupchat_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\groupchat_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messge_center.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\messge_center.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_10.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_10.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_switch_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_switch_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_close_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_dialog_close_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_seekbar_thumb_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\MyApp\\videoplayer\\unspecified\\res\\drawable-hdpi-v4\\ic_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_item_arrow.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\group_item_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_result_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\no_result_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vol_type_speaker_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_speaker_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vol_type_speaker_group_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_speaker_group_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_items_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\no_items_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_replay_icon1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_replay_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_14.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_14.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_user.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_search_user.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_comment_up_bg_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_comment_up_bg_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_im_menu_more_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_im_menu_more_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hoverb.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\hoverb.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_check_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_btn_bg_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\search_btn_bg_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vol_type_tv_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_tv_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recorder_triangle.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_recorder_triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_danmu.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_video_danmu.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_media_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\11.0.0\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_rixi.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_rixi.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\11.0.0\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_login_nohead.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_login_nohead.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\pic_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_disabled_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\check_disabled_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_13.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_13.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gv_slip_3.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\gv_slip_3.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_23.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_23.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_switch_to_sendmsg_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_switch_to_sendmsg_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_switch_to_sendmsg_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_switch_to_sendmsg_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_at_constact.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\add_at_constact.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_home_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_back_home_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_stop_2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_stop_2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\circle_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_select_defalt.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_select_defalt.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_29.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tree_collapse.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\tree_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_circle_space_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_circle_space_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_more_small_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_more_small_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loc_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\loc_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slip_3.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\slip_3.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\divider.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_25.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_scan_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_scan_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_sumbit_cancel_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_sumbit_cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vol_type_speaker_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_speaker_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avatar_img_loading.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\avatar_img_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_report.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_report.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuyin.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\yuyin.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_sumbit_ok_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_sumbit_ok_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_stranger.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\head_stranger.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_share_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_share_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_detele_cancelbtn_nor.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_detele_cancelbtn_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_3.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_3.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\net_connectreport_fail.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\net_connectreport_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_save_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_save_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\public_menu_line.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\public_menu_line.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addgroupinit.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\addgroupinit.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_gaoqing.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_gaoqing.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_blue_arrow_down.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_blue_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dot.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_dot.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\drawable-hdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_theme.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\add_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_27.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_submit_ok_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_submit_ok_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_im_popmenu_arrow.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_im_popmenu_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\del_avatar_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\del_avatar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_drag_delbg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_drag_delbg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_opt_bar_back_btn_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_opt_bar_back_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\org_name_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\org_name_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressline_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\progressline_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_15.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mr_button_disconnected_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_mr_button_disconnected_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_down_blue.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_down_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_hushui.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\filter_hushui.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\mic_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tencent_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\tencent_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_stop_3_l.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_stop_3_l.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_photo.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_audiotrack_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_camera_default.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_camera_default.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupappindicator.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\groupappindicator.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sina_black.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\sina_black.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_msg_state_sending.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_msg_state_sending.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search_cancel.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_search_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_finish_sel.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_finish_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_finish_nor.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_finish_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\more_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_8.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_08.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_no_select_image.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_no_select_image.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_refresh_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_refresh_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_submit_cancel_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_submit_cancel_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_msg_error.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_msg_error.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_17.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_17.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_telfriend.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_telfriend.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gv_slip_1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\gv_slip_1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_remove.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scroll_pageno_indicator.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\scroll_pageno_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mr_button_disabled_dark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_mr_button_disabled_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_contact_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_add_contact_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_more_image.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\no_more_image.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_detele_cancelbtn_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_detele_cancelbtn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_30.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_play.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\error.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reddelete.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\reddelete.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fc_comment_p.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\fc_comment_p.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_camera_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_35.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publisher_opt_bar_bg_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\publisher_opt_bar_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\warning_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\warning_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radio_h.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\radio_h.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_13.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_13.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_im_switch_to_accmenu_n.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\btn_im_switch_to_accmenu_n.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_20.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ee_20.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slip_1.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\slip_1.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_danmu_gag_no.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_danmu_gag_no.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\11.0.0\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mr_button_disabled_light.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable-hdpi-v4\\ic_mr_button_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_msg_loading.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\sync_msg_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_danmu_kick.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\ic_danmu_kick.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_guanzhong.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\icon_guanzhong.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arg_unpick.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\arg_unpick.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_switch_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\bg_switch_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_03.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\record_animate_03.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\serch_ico.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\serch_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_socialize_share_music.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable-hdpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
+    }
+]

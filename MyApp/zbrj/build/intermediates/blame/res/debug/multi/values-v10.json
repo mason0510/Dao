@@ -1,0 +1,91 @@
+[
+    {
+        "outputFile": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v10\\values-v10.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\values-v10\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\values-v10\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\values-v10\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\values-v10\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 264
+                    }
+                }
+            }
+        ]
+    }
+]

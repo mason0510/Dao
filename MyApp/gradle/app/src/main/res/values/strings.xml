@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="shouye">首页</string>
+    <string name="xinwen">新闻中心</string>
+    <string name="zhihuifuwu">智慧服务</string>
+    <string name="zhengwu">政务</string>
+    <string name="shezhi">设置</string>
+</resources>

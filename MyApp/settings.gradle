@@ -1,0 +1,4 @@
+include ':dao', ':daoexample', ':MyGreenDao', ':daoexamplegenerator'
+include ':videoplayer'
+include ':social_sdk_library_project'
+include ':zbrj'

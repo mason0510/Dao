@@ -1,0 +1,1494 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offmsgnotice.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_offmsgnotice.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_group.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_search_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_system.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_system.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\form_item_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\form_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_facebook_login_activity_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_channel_mng_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_channel_mng_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_friendcircle_sendtxt.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_friendcircle_sendtxt.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_sthread_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_sthread_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_bigitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_bigitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\contact_phone_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\contact_phone_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_message_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\share_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_webdetail.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_webdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\contact_selected_lv.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\contact_selected_lv.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_danmu_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_danmu_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail_right_setting.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\contact_detail_right_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_feedlike_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_feedlike_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_intercom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_intercom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_info.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_group_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\user_guide.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\user_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_preview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_domain_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_domain_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\moreapp_loading_head.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\moreapp_loading_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_thread_list_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_thread_list_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\shake_umeng_socialize_scrshot_snapshot.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\shake_umeng_socialize_scrshot_snapshot.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_grid_popwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\bottom_grid_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\popmenu.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\popmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_morebtnbar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_morebtnbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_title_search_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_title_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\detail_header_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\detail_header_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_domain_textdetailmessage.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_domain_textdetailmessage.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_comp_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_single_comp_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_group_mem_mng_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_group_mem_mng_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_choose_selectedlv_for_friendcircle.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_choose_selectedlv_for_friendcircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_stat_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_stat_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\findpwd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\findpwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_comp_top_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_single_comp_top_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\search_group_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\search_group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\create_group_finished.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\create_group_finished.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\register2.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\register2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_comment_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_comment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_baidumap.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\editable_spinner.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\editable_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_audio.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_person_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_iv_with_num.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_iv_with_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_friendcircle.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_friendcircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_feedlike_detailitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_feedlike_detailitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blacklist.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_blacklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\connections_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\connections_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_search_list_video_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_search_list_video_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_request_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fans_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_fans_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\shake_umeng_socialize_share_dlg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\shake_umeng_socialize_share_dlg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friend_list_item_section.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friend_list_item_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_sendstatus.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_sendstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\snap_imageshow_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\snap_imageshow_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_indicator.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\tab_main_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_batch_show.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_image_batch_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_gridview_face_listview_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_gridview_face_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_menu_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person_setsign.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_person_setsign.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_bottom_popwindow_btn_none.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_bottom_popwindow_btn_none.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\locpopup.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\locpopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\speak_image.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\speak_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_share_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_share_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\choose_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\cropimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_recordthreads_msg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_recordthreads_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_recordthreads_search.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_recordthreads_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_face.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_history_search.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_history_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_title_control.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_title_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_comp_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_comp_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friendcircle_message.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_friendcircle_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\danmu_listview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\danmu_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\html_linked_textview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\html_linked_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\list_single.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\list_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\loading_music.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\loading_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_multiimgs.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_multiimgs.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_popwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\bottom_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_consummation_info.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_consummation_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\category_title.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\category_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_horizontial_listappcenter_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_horizontial_listappcenter_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_search_list_person_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_search_list_person_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fans_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_fans_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\addtag.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\addtag.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_feedlink_item_gridview_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_feedlink_item_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_bottom_popwindow_btn.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_bottom_popwindow_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watchsearch_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watchsearch_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_empty_listview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_empty_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\publisher_operationbar_step3.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\publisher_operationbar_step3.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cancleable_textview_mas.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\cancleable_textview_mas.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_up_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_up_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_friendcircle_message.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_friendcircle_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\normalprogressdialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\normalprogressdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notdisturb_mode.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_notdisturb_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_domain_follow_num.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_domain_follow_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_danmu_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_danmu_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_comp_title.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_single_comp_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\res_goods_address_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\res_goods_address_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\finance_act_lockpattern.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\finance_act_lockpattern.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_msg_history.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_msg_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_changename.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_changename.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\g_search_lv_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\g_search_lv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_sys_message_listitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_sys_message_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_friend_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_choose_friend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_area.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_setting_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_friendcircle_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_friendcircle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\imageshow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\imageshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_htmltext.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_htmltext.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_contactchooser_selectedlist.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_contactchooser_selectedlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_channel_mng.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_channel_mng.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_competition.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_competition.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\dep_room_relation_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\dep_room_relation_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_group_mem_mng.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_group_mem_mng.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_friendcircle_detailmessage.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_friendcircle_detailmessage.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_footerview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_footerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_comment_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_comment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\overlay.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_activity.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\dialog_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_comment_detalitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_comment_detalitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_image.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_danmu_option1.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_danmu_option1.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_item_lv.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_item_lv.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_txtimg_gridview_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_txtimg_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_group_setting.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_group_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_indicator.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\share_all_edit.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\share_all_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\finance_act_setlockpattern.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\finance_act_setlockpattern.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\addmore_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\addmore_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\view_block.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\view_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_thread_listitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_thread_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_loc.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_group_loc.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_circlespace.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_circlespace.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_p2p_setting.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_p2p_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_recorder.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_video_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\moreapp_loading.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\moreapp_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\register3.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\register3.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\listview_empty_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\listview_empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showtag.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_showtag.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_sys_message.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_sys_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\speak_image_share_choose_contacts.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\speak_image_share_choose_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friendcircle_sendtxt.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_friendcircle_sendtxt.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_group_result.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_search_group_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notify_progress.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\notify_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_image_preview_or_select.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_image_preview_or_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\addtag_textview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\addtag_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\expression_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\search_lv_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\search_lv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\tip_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\tip_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\gifshow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\gifshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_ivgroup_with_num.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_ivgroup_with_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_imagetextshare_popupwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_imagetextshare_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_playback.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_playback.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_location.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wxentry.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_wxentry.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_group.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_create_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\row_expression.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_image_grid.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_image_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_friendcircle_domain.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_friendcircle_domain.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_recorder_controler_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_recorder_controler_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_item_gv.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_item_gv.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\share_add_theme.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\share_add_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_thread_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_thread_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_live.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_live.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_comp_video_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_comp_video_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_headerview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_headerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\editable_spinner_listitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\editable_spinner_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_horizontial_speak_listview_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_horizontial_speak_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\msgcenter_loadmore.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\msgcenter_loadmore.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\check_list_item_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\check_list_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\loc_offline_page_listitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\loc_offline_page_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\view_top_filter_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\view_top_filter_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\msgeditor_textview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\msgeditor_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_recorder_start_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_recorder_start_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_view_record.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\wheel_view_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_horizontal_indicator.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_horizontal_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_bottom_popwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_bottom_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_title_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_preview_for_friendcircle.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_preview_for_friendcircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_title_search.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_title_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\group_loc_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\group_loc_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\register1.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\register1.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_person_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_join_group_form.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_join_group_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_choose_image.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_choose_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_menu_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_portocal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_portocal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\section_flag.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\section_flag.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_title.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_input.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\filter_gallery_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\filter_gallery_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_batch_setting.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_batch_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\horizontial_layout_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\horizontial_layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_new_message.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_new_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_facebar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_facebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sms_invite.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_sms_invite.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\loc_offline_page.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\loc_offline_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_focus_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_focus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_friend.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_choose_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\registerall.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\registerall.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_widget_net_image.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_widget_net_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_choose_selectedlv.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_choose_selectedlv.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_friendcircle_sendimgtxt.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_friendcircle_sendimgtxt.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retain_message.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_retain_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_horizontial_listview_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_horizontial_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\talkpicimageshow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\talkpicimageshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_item_image_grid.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_item_image_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\more_image_choose_album.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\more_image_choose_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_read_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_read_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\setpwd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\setpwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_imagetext.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_imagetext.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cancleable_textview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\cancleable_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\black_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\black_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\headicon_big.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\headicon_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\publisher_operationbar_step2.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\publisher_operationbar_step2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_activity_domain_classfromdate_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_activity_domain_classfromdate_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\tab_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_view.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\wheel_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loc_offline.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_loc_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_group_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\editable_spinner_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\editable_spinner_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\dail_mes_email_detail.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\dail_mes_email_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_orgnization_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_orgnization_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watchsearch_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watchsearch_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\11.0.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_talk_pic.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_talk_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\snappic_bottom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\snappic_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\pop_confirm_window.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\pop_confirm_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\area_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\area_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\group_op_result.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\group_op_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\user_guide_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\user_guide_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_join_group_form_department.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_join_group_form_department.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\country_code.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\country_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_item_gridview_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_item_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\addmobile.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\addmobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\countrycode_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\countrycode_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\pop_nologo_confirm_window.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\pop_nologo_confirm_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_popupwindow_image_list.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_popupwindow_image_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\camera_filter_pre.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\camera_filter_pre.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\share_edit_content.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\share_edit_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_message_listitem.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_message_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_detailtext_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_detailtext_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_link.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\widget_net_image.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\widget_net_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friendcircle_sendimgtxt.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_friendcircle_sendimgtxt.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person_setmemo.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_person_setmemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watchhistory_list_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watchhistory_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\speak_image_share_choose_contacts_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\speak_image_share_choose_contacts_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_entry_bar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_entry_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\fc_listview_footer.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\fc_listview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_comp.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_single_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\linev.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\linev.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_player_control_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_player_control_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_comment_or_up_pop.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_comment_or_up_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\friendcircle_unreadview.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\friendcircle_unreadview.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\contact_tab_switcher.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\contact_tab_switcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\app_im_groupsetting_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\app_im_groupsetting_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_file.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_watch_list_comp_video_item2.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_watch_list_comp_video_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\video_danmu_control.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\video_danmu_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\updpwd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\updpwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\activity_private_config.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\activity_private_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\message_gridview_imadd_listview_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\layout\\message_gridview_imadd_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    }
+]

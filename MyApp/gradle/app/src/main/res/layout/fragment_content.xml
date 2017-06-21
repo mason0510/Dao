@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:myradio="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    tools:context=".MainActivity"
+    android:layout_height="match_parent">
+<com.sfsj.asus.myapp.view.NoScrollViewPager
+    android:id="@+id/vp_content"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="50dp"
+    />
+
+  <!--  <RadioGroup
+        android:id="@+id/rg_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_tab_bg"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rb_home"
+            style="@style/Bottom_Tab_Style"
+            android:checked="true"
+            android:drawableTop="@drawable/tab_home"
+          android:text="首页"
+           />
+
+        <RadioButton
+            android:id="@+id/rb_news"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_news_selector"
+            android:text="新闻中心" />
+
+        <RadioButton
+            android:id="@+id/rb_smart"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_smart_selector"
+            android:text="智慧服务"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rb_gov"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_gov_selector"
+            android:text="政务"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rb_setting"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_setting_selector"
+            android:text="设置" />
+    </RadioGroup>-->
+    <RadioGroup
+        android:id="@+id/rg_group"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/bottom_tab_bg"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="5"
+      >
+
+        <com.sfsj.asus.myapp.MyRatioButton
+            android:id="@+id/rb_home"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_home"
+            android:checked="true"
+
+            android:text="@string/shouye" />
+      <!--  MyRadioButton:drawableSize="30dp"-->
+        <com.sfsj.asus.myapp.MyRatioButton
+            android:id="@+id/rb_news"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_news_selector"
+            android:text="@string/xinwen" />
+
+        <com.sfsj.asus.myapp.MyRatioButton
+            android:id="@+id/rb_smart"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_smart_selector"
+            android:text="@string/zhihuifuwu" />
+
+        <com.sfsj.asus.myapp.MyRatioButton
+            android:id="@+id/rb_gov"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_gov_selector"
+            android:text="@string/zhengwu" />
+
+        <com.sfsj.asus.myapp.MyRatioButton
+            android:id="@+id/rb_setting"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_setting_selector"
+            android:text="@string/shezhi" />
+    </RadioGroup>
+</RelativeLayout>

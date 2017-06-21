@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\raw\\shake_sound.mp3",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\raw\\shake_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\raw\\protocol_en.html",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\raw\\protocol_en.html"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\raw\\msg3.wav",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\raw\\msg3.wav"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\raw\\protocol_cn.html",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\raw\\protocol_cn.html"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\raw\\phonecodes.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\raw\\phonecodes.xml"
+    }
+]

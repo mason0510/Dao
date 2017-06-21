@@ -1,0 +1,1918 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_pinterest_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_none_popwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_none_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_danmu_relative.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_danmu_relative.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_input.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\msg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\home_radio_button_tab4.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\home_radio_button_tab4.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_double_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_double_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_nor.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_cancel_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_im_text.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_im_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_share_invite_nor.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_share_invite_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector_bottom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\item_nomal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\item_nomal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector_mid.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector_mid.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_share_invite_sel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_share_invite_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_cursor.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\edit_text_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector_bottom_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector_bottom_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_to_refresh_indeterminate_drawable.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\pull_to_refresh_indeterminate_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_sel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_cancel_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector_top.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_item_border_selected.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\gridview_item_border_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_pocket.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\im_thread_list_item_topchat_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\im_thread_list_item_topchat_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector_top_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector_top_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\11.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\im_message_intercom_layout.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\im_message_intercom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_top_search_box.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_top_search_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_im_speaker.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_im_speaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\f_bg_lockpattern.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\f_bg_lockpattern.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_ynote_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tabwidget.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_tabwidget.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_share_invite.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_share_invite.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_top_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_top_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_item_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\msg_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\more_app_detail_screenimgs_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\more_app_detail_screenimgs_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\groupchat.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\groupchat.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_bottom_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_bottom_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\category_title_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\category_title_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_close.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_bottom_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_bottom_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_app_im_sys_message_listitem_bg_bottom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_app_im_sys_message_listitem_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\item_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\tabbar_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\tabbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\top_filter_btn_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\top_filter_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_shake_layout_corner.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_shake_layout_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_vlc_thumb.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\MyApp\\videoplayer\\unspecified\\res\\drawable\\seekbar_vlc_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_corner_left_white7.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_corner_left_white7.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_laiwang_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_solidborder.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\textview_solidborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_888888_1f88c2.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\text_color_888888_1f88c2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_unlike.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_pressd_bottom_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_pressd_bottom_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cp_menu_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_cp_menu_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\video_btn_white_green_drawable.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\video_btn_white_green_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_bottom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\page_progressbar_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\page_progressbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_or_invite.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_chat_or_invite.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_right_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\contact_btn_right_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_popwindow_btn_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_popwindow_btn_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_top.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_edittext_corner.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_edittext_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\recording_hint_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_black_1f88c2.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\text_color_black_1f88c2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_report.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attention.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_attention.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\danmu_list_border.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\danmu_list_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_item_bg_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\msg_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_app_im_sys_message_listitem_btn_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_app_im_sys_message_listitem_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_item_border.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\gridview_item_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\top_tab_btn_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\top_tab_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_comment_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_comment_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_contact.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_add_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search_enable_disable.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\icon_search_enable_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_zhannei.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_share_zhannei.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_female.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\radio_female.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_danmu_send.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_danmu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_play.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\audio_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_instagram_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_close.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_pressd_double_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_pressd_double_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\login_tvbtn_text.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\login_tvbtn_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector_double_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector_double_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\check_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_list_item_bg_pressed.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_evernote_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_app_im_sys_message_listitem_bg_bottom_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_app_im_sys_message_listitem_bg_bottom_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_popwindow_btn.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_popwindow_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\common_title_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_linkedin_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_share.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_right_sel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\contact_btn_right_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\publisher_opt_bar_close_btn.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\publisher_opt_bar_close_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_none.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_none.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_menu_item_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\pop_menu_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cp_menu_btn_disabled_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\cp_menu_btn_disabled_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit_sel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_exit_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_laiwang.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_divider_line.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_checked.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mas_send_zone_bg_color.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\mas_send_zone_bg_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_app_im_sys_message_listitem_bg_top.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_app_im_sys_message_listitem_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_pocket_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_corner_all_black7.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_corner_all_black7.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_filter_arrow_down.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\icon_filter_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg_incoming_white.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_msg_incoming_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_right_nor.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\contact_btn_right_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_text_color.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\contact_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_popwindow_special.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_popwindow_special.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_im_more_small.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_im_more_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\home_radio_button_tab2.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\home_radio_button_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_wb_back.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_wb_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_select_image_remove.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_select_image_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\im_thread_list_item_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\im_thread_list_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_popwindow_btn_none_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_popwindow_btn_none_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\app_im_sys_message_listitem_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\app_im_sys_message_listitem_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg_outgoing.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_msg_outgoing.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\po_vlc_seekbar.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\MyApp\\videoplayer\\unspecified\\res\\drawable\\po_vlc_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_edit.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_msg_item_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_msg_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_root.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\gradient_root.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_im_switch_to_sendmsg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_im_switch_to_sendmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\groupset.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\groupset.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\video_btn_drawable.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\video_btn_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\search_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_input.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\search_bar_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_corner_right_white7.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_corner_right_white7.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_im_more.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_im_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_imgview_border.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_imgview_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\share_add.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\share_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_actionbar_bg.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_finish.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\check_icon.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\check_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\zbrj_solid_red_round.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\zbrj_solid_red_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_but_send_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_but_send_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_dialog_control_panel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\custom_dialog_control_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\record_normal_icon.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\record_normal_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\app_im_sys_message_listitem_top.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\app_im_sys_message_listitem_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\zbrj_solid_dark_gray_round.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\zbrj_solid_dark_gray_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_corner_all_white7.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_corner_all_white7.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_yixin.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_left_sel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\contact_btn_left_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\im_message_sip_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\im_message_sip_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_dialog_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\custom_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\im_thread_list_item_bg_pressed.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\im_thread_list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_bg.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\video_btn_textcolor_white_green.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\video_btn_textcolor_white_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\app_im_sys_message_listitem_bottom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\app_im_sys_message_listitem_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_danmu_gag.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_danmu_gag.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\more_app_head_text_color.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\more_app_head_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_contact_card.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_contact_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\publisher_submit_cancel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\publisher_submit_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_rhtx.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\list_selector_rhtx.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_comment_up_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_comment_up_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_trans.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\mm_trans.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_app_im_sys_message_listitem_btn_bg_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_app_im_sys_message_listitem_btn_bg_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_popwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_save.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_im_menu_more.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_im_menu_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_but_finish_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_but_finish_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_dottedborder.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\textview_dottedborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit_nor.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_exit_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_comment_up.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_comment_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg_incoming.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_msg_incoming.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_widget_imagetextshare_popupwindow.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_widget_imagetextshare_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_location_disabled.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_share_item_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_share_item_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pv.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_im_switch_to_accmenu.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_im_switch_to_accmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_up_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_up_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sms_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_top_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_top_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_circle_space.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_add_circle_space.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sound.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_sound.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_close_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_person_sign.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_person_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_quick_register.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_quick_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_mid_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_mid_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_im_speaker.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_im_speaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_friendcircle.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_friendcircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\top_btn_right_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\top_btn_right_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_instagram_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_share_item_pressed.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_share_item_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_home.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_back_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\normalpdbg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\normalpdbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_block_btn.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_block_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_text_hint_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_im_menu.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_im_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_or_invite_nor.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_chat_or_invite_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_or_invite_sel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_chat_or_invite_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_popwindow_cancel.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_popwindow_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_menu.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_evernote.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_switch.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\im_thread_list_item_text2.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\im_thread_list_item_text2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pic_rotate.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_pic_rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_watch_list_comp_video_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_watch_list_comp_video_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_mid.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_mid.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\publisher_submit_ok.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\publisher_submit_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_laiwang_dynamic_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bottom_btn.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_bottom_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_mark.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_copy_link.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_share_copy_link.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_popwindow_btn_none.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_popwindow_btn_none.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\radio.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\top_tab_btn_right_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\top_tab_btn_right_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_male.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\radio_male.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_person_more.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_person_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\popup.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\group_settings_rename_selector_none.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\group_settings_rename_selector_none.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cp_menu_btn_pressed_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\cp_menu_btn_pressed_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_like.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_pressd_top_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_pressd_top_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_gmail_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\content_border.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\content_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\fc_bgd_relatly_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\fc_bgd_relatly_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_connections_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_connections_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_scan.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_left_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\contact_btn_left_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_button_style.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_close_button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\labelbg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\labelbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_input.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\play.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\play.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_list_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\gridview_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_yixin_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_f.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\list_selector_background_f.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_none_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_none_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\text_incall_button_color.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\text_incall_button_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\downbutton_corne.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\downbutton_corne.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_channel_mng_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_channel_mng_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_corner_peachy.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_corner_peachy.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_left_nor.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\contact_btn_left_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_gray.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_yixin_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\graybg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\graybg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_click_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\list_item_click_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\im_message_author_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\im_message_author_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\moreapp_tab_indicator.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\moreapp_tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cp_menu_btn_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\cp_menu_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg_input.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_msg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_share_btn_style.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_share_btn_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_video_misc.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_video_misc.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_person_btn.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_person_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_selected.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\home_radio_button_tab1.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\home_radio_button_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\app_im_sys_message_listitem_btn.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\app_im_sys_message_listitem_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_contacts.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\choose_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_background_pressd.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shape_background_pressd.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_im_menu_sub.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\bg_im_menu_sub.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\publisher_opt_bar_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\publisher_opt_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\video_btn_black_drawable.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\video_btn_black_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.2.0\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_menu_item_split_line.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\pop_menu_item_split_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\11.0.0\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_play_l.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\audio_play_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_grey.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_p.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\list_selector_background_p.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\share_dialog_selector.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\share_dialog_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_popwindow_button.xml",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\btn_popwindow_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "C:\\Users\\asus\\Desktop\\Hard Android\\MyApp\\zbrj\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    }
+]
